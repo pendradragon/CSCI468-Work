@@ -1,5 +1,5 @@
-# CSCI468-Work
-This repository is a portfolio for potential employers to access of all of the work I have completed for CSCI 468, Introduction to Cryptography. All of the assignments have been published AFTER their due date.
+# CSCI462-Work
+This repository is a portfolio for potential employers to access of all of the work I have completed for CSCI 462, Introduction to Cryptography. All of the assignments have been published AFTER their due date.
 
 ALL of the code published in this repository is in an altered state. Portions of code and assignment details may be altered and/or deleted entirely to prevent from future cheating and/or misuse of the code.
 
